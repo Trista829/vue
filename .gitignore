@@ -1,0 +1,6 @@
+node_modules
+# webstorm的默认文件
+.idea
+# vscode的默认文件
+.vscode
+.git
